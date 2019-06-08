@@ -40,7 +40,6 @@ cp-related-posts
 custom-sucuri
 disable-comments
 display-categories-widget
-divi-builder
 dk-pricr-responsive-pricing-table
 download-monitor
 download-plugins-dashboard
@@ -57,7 +56,6 @@ formidable
 gamipress
 gdpr
 geodirectory
-github-updater
 google-analytics-dashboard-for-wp
 google-calendar-events
 google-sitemap-generator
