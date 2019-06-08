@@ -166,7 +166,6 @@ wordpress-social-login
 wp-and-divi-icons
 wp-awesome-faq
 wp-contact-slider
-wp-custom-admin-interface
 wp-fastest-cache
 wp-featured-screenshot
 wp-file-manager
