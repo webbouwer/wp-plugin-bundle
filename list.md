@@ -113,6 +113,7 @@ popupally
 popups-for-divi
 portfolio-filter-gallery
 post-category-image-with-grid-and-slider
+post-grid
 post-to-google-my-business
 pricing-table-by-supsystic
 profile-builder
