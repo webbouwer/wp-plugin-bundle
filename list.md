@@ -170,6 +170,7 @@ wp-file-manager
 wp-fullcalendar
 wp-google-maps
 wp-image-zoooom
+wp-jquery-lightbox
 wp-live-chat-software-for-wordpress
 wp-live-chat-support
 wp-maintenance-mode
