@@ -33,6 +33,7 @@ conditional-menus
 connections
 contact-form-7
 contactic
+content-views-query-and-display-post-page
 content-visibility-for-divi-builder
 cookie-law-info
 cookie-notice
@@ -59,6 +60,7 @@ geodirectory
 google-analytics-dashboard-for-wp
 google-calendar-events
 google-sitemap-generator
+grid-plus
 i-divi-post-settings
 image-size-selection-for-divi
 index.php
