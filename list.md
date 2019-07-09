@@ -40,6 +40,7 @@ cp-related-posts
 custom-sucuri
 disable-comments
 display-categories-widget
+display-posts-shortcode
 dk-pricr-responsive-pricing-table
 download-monitor
 download-plugins-dashboard
@@ -111,6 +112,7 @@ popupally
 popups-for-divi
 portfolio-filter-gallery
 post-category-image-with-grid-and-slider
+post-grid
 post-to-google-my-business
 pricing-table-by-supsystic
 profile-builder
