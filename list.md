@@ -33,6 +33,7 @@ conditional-menus
 connections
 contact-form-7
 contactic
+content-views-query-and-display-post-page
 content-visibility-for-divi-builder
 cookie-law-info
 cookie-notice
@@ -40,6 +41,7 @@ cp-related-posts
 custom-sucuri
 disable-comments
 display-categories-widget
+display-posts-shortcode
 dk-pricr-responsive-pricing-table
 download-monitor
 download-plugins-dashboard
@@ -59,6 +61,7 @@ geodirectory
 google-analytics-dashboard-for-wp
 google-calendar-events
 google-sitemap-generator
+grid-plus
 i-divi-post-settings
 image-size-selection-for-divi
 index.php
@@ -111,6 +114,7 @@ popupally
 popups-for-divi
 portfolio-filter-gallery
 post-category-image-with-grid-and-slider
+post-grid
 post-to-google-my-business
 pricing-table-by-supsystic
 profile-builder
