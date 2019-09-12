@@ -179,6 +179,7 @@ wp-live-chat-software-for-wordpress
 wp-live-chat-support
 wp-maintenance-mode
 wp-members
+wp-reset
 wp-responsive-photo-gallery
 wp-smushit
 wp-staging
