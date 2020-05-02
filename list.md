@@ -137,6 +137,7 @@ slide-anything
 smart-slider-3
 so-widgets-bundle
 social-networks-auto-poster-facebook-twitter-g
+sticky-menu-or-anything-on-scroll
 strong-testimonials
 sucuri-scanner
 supreme-modules-for-divi
