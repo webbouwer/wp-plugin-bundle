@@ -190,6 +190,7 @@ wp-user-avatar
 wp-user-manager
 wp-video-lightbox
 wp-whatsapp-chat
+wp-widget-in-navigation
 wpforms-lite
 wpglobus
 yoast-seo-settings-xml-csv-import
