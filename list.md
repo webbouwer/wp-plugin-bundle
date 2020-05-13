@@ -1,5 +1,4 @@
 3d-flipbook-dflip-lite
-accessible-divi
 aceide
 admin-custom-login
 advanced-backgrounds
@@ -15,14 +14,12 @@ autoptimize
 before-after-images-for-divi
 better-wp-security
 black-studio-tinymce-widget
-bloom
 breadcrumb-navxt
 broken-link-checker
 browser-shots
 buddypress
 business-directory-plugin
 categories-images
-cf7-intelligence
 cf7-mollie
 child-theme-configurator
 classic-editor
