@@ -22,6 +22,7 @@ business-directory-plugin
 categories-images
 cf7-mollie
 child-theme-configurator
+child-theme-wizard
 classic-editor
 clear-sucuri-cache
 codepress-admin-columns
@@ -120,6 +121,7 @@ pronamic-ideal
 quadmenu
 quadmenu-divi
 really-simple-ssl
+rearrange-woocommerce-products
 recent-posts-widget-extended
 regenerate-thumbnails
 remove-yoast-seo-comments
@@ -178,6 +180,7 @@ wp-live-chat-support
 wp-mail-smtp
 wp-maintenance-mode
 wp-members
+wp-multi-step-checkout
 wp-reset
 wp-responsive-photo-gallery
 wp-smushit
