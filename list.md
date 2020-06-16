@@ -175,6 +175,7 @@ wp-image-zoooom
 wp-jquery-lightbox
 wp-live-chat-software-for-wordpress
 wp-live-chat-support
+wp-mail-smtp
 wp-maintenance-mode
 wp-members
 wp-reset
