@@ -1,5 +1,6 @@
 3d-flipbook-dflip-lite
 aceide
+accessible-divi
 admin-custom-login
 advanced-backgrounds
 ah-display-widgets
@@ -41,6 +42,7 @@ custom-sucuri
 disable-comments
 display-categories-widget
 display-posts-shortcode
+divi-acce
 dk-pricr-responsive-pricing-table
 download-monitor
 download-plugins-dashboard
@@ -63,7 +65,6 @@ google-sitemap-generator
 grid-plus
 i-divi-post-settings
 image-size-selection-for-divi
-index.php
 interactive-3d-flipbook-powered-physics-engine
 jetpack
 jonradio-multiple-themes
@@ -170,6 +171,7 @@ wordpress-social-login
 wp-and-divi-icons
 wp-awesome-faq
 wp-contact-slider
+wp-custom-admin-interface
 wp-fastest-cache
 wp-featured-screenshot
 wp-file-manager
