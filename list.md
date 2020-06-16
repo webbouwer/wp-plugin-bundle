@@ -42,7 +42,6 @@ custom-sucuri
 disable-comments
 display-categories-widget
 display-posts-shortcode
-divi-acce
 dk-pricr-responsive-pricing-table
 download-monitor
 download-plugins-dashboard
