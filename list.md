@@ -3,6 +3,7 @@ aceide
 admin-custom-login
 advanced-backgrounds
 ah-display-widgets
+ajax-cart-autoupdate-for-woocommerce
 all-in-one-event-calendar
 all-in-one-seo-pack
 all-in-one-wp-migration
@@ -152,6 +153,7 @@ velvet-blues-update-urls
 video-embed-thumbnail-generator
 w3-total-cache
 woo-advanced-product-size-chart
+woo-ajax-add-to-cart
 woo-checkout-field-editor-pro
 woo-custom-related-products
 woo-download-monitor
