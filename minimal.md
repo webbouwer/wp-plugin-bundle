@@ -5,6 +5,10 @@ cookie-law-info
 duplicator
 easy-video-player
 email-encoder-bundle
+google-sitemap-generator
+formidable
+loftloader
+mailchimp-for-wp
 page-or-post-clone
 popup-maker
 really-simple-ssl
