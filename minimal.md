@@ -16,3 +16,4 @@ slide-anything
 sp-faq
 sticky-menu-or-anything-on-scroll
 taxonomy-terms-order
+wp-custom-admin-interface
