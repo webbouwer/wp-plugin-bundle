@@ -32,3 +32,4 @@ woo-single-product-page-customizer
 woocommerce
 woocommerce-google-analytics-integration
 woocommerce-single-product-checkout
+theme-my-login
