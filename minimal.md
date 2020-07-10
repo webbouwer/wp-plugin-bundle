@@ -8,7 +8,6 @@ email-encoder-bundle
 google-sitemap-generator
 formidable
 loftloader
-mailchimp-for-wp
 page-or-post-clone
 popup-maker
 really-simple-ssl
@@ -16,5 +15,6 @@ slide-anything
 sp-faq
 sticky-menu-or-anything-on-scroll
 taxonomy-terms-order
+wp-add-mime-types
 wp-custom-admin-interface
 theme-my-login
