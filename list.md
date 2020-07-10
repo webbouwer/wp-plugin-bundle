@@ -168,6 +168,7 @@ wordpress-popular-posts
 wordpress-popup
 wordpress-seo
 wordpress-social-login
+wp-add-mime-types
 wp-and-divi-icons
 wp-awesome-faq
 wp-contact-slider
