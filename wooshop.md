@@ -32,4 +32,5 @@ woo-single-product-page-customizer
 woocommerce
 woocommerce-google-analytics-integration
 woocommerce-single-product-checkout
+wp-add-mime-types
 theme-my-login
