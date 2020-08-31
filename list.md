@@ -105,6 +105,7 @@ page-scroll-to-id
 paj-divi-menu-options
 participants-database
 paytium
+peters-login-redirect
 plugin-organizer
 pluginlist.txt
 polylang
