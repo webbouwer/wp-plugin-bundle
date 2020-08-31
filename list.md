@@ -102,6 +102,7 @@ onwebchat
 optimize-database
 page-or-post-clone
 page-scroll-to-id
+paj-divi-menu-options
 participants-database
 paytium
 plugin-organizer
@@ -150,6 +151,7 @@ theme-check
 theme-my-login
 ultimate-faqs
 updraftplus
+urvanov-syntax-highlighter
 velvet-blues-update-urls
 video-embed-thumbnail-generator
 w3-total-cache
