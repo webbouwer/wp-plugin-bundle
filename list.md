@@ -1,6 +1,7 @@
 3d-flipbook-dflip-lite
 aceide
 accessible-divi
+add-from-server
 admin-custom-login
 advanced-backgrounds
 ah-display-widgets
