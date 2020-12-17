@@ -1,4 +1,3 @@
-
 add-from-server
 ah-display-widgets
 ajax-cart-autoupdate-for-woocommerce
@@ -53,4 +52,3 @@ woocommerce-single-product-checkout
 wp-add-mime-types
 wp-fastest-cache
 wp-reset
-
