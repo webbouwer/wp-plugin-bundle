@@ -12,6 +12,7 @@ duplicator
 easy-video-player
 email-encoder-bundle
 formidable
+force-regenerate-thumbnails
 google-sitemap-generator
 loftloader
 menu-icons
