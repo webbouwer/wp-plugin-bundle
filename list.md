@@ -58,6 +58,7 @@ events-manager
 everest-admin-theme-lite
 final-tiles-grid-gallery-lite
 formidable
+force-regenerate-thumbnails
 gamipress
 gdpr
 geodirectory
