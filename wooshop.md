@@ -9,6 +9,7 @@ duplicator
 dse-divi-section-enhancer
 easy-video-player
 email-encoder-bundle
+force-regenerate-thumbnails
 google-analytics-dashboard-for-wp
 google-sitemap-generator
 js-support-ticket
