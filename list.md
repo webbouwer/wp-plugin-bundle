@@ -111,7 +111,6 @@ participants-database
 paytium
 peters-login-redirect
 plugin-organizer
-pluginlist.txt
 polylang
 popup-builder
 popup-maker
@@ -146,6 +145,7 @@ social-networks-auto-poster-facebook-twitter-g
 sp-faq
 sticky-menu-or-anything-on-scroll
 strong-testimonials
+subscribe-to-download-lite
 sucuri-scanner
 supreme-modules-for-divi
 surbma-divi-remove-project-cpt
