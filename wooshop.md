@@ -44,6 +44,7 @@ woo-product-slider
 woo-related-products-refresh-on-reload
 woo-single-product-page-customizer
 woo-smart-wishlist
+woo-variation-swatches
 woocommerce
 woocommerce-gateway-paypal-express-checkout
 woocommerce-gateway-stripe
