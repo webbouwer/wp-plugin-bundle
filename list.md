@@ -160,6 +160,12 @@ urvanov-syntax-highlighter
 velvet-blues-update-urls
 video-embed-thumbnail-generator
 w3-total-cache
+woocommerce
+woocommerce-gateway-paypal-express-checkout
+woocommerce-gateway-stripe
+woocommerce-google-analytics-integration
+woocommerce-services
+woocommerce-single-product-checkout
 woo-advanced-product-size-chart
 woo-ajax-add-to-cart
 woo-checkout-field-editor-pro
@@ -175,12 +181,7 @@ woo-product-slider
 woo-related-products-refresh-on-reload
 woo-single-product-page-customizer
 woo-smart-wishlist
-woocommerce
-woocommerce-gateway-paypal-express-checkout
-woocommerce-gateway-stripe
-woocommerce-google-analytics-integration
-woocommerce-services
-woocommerce-single-product-checkout
+woo-variation-swatches
 wordfence
 wordpress-popular-posts
 wordpress-popup
