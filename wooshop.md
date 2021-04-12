@@ -3,6 +3,7 @@ ah-display-widgets
 ajax-cart-autoupdate-for-woocommerce
 better-wp-security
 code-snippets
+color-and-image-swatches-for-variable-product-attributes
 conditional-menus
 cookie-notice
 duplicator
