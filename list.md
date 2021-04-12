@@ -31,6 +31,7 @@ classic-editor
 clear-sucuri-cache
 codepress-admin-columns
 code-snippets
+color-and-image-swatches-for-variable-product-attributes
 coming-soon
 conditional-menus
 connections
