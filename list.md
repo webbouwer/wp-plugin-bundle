@@ -88,7 +88,6 @@ maxbuttons
 megamenu
 menu-icons
 meta-box
-miguras-divi-enhancer
 miniorange-login-openid
 ml-slider
 modula-best-grid-gallery
