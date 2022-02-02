@@ -21,6 +21,7 @@ my-database-admin
 my-wp-health-check
 page-or-post-clone
 paytium
+polylang
 popup-maker
 really-simple-ssl
 rearrange-woocommerce-products
@@ -50,6 +51,7 @@ woocommerce
 woocommerce-gateway-paypal-express-checkout
 woocommerce-gateway-stripe
 woocommerce-google-analytics-integration
+woocommerce-polylang-integration
 woocommerce-services
 woocommerce-single-product-checkout
 wp-add-mime-types
