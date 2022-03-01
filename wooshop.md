@@ -2,6 +2,7 @@ add-from-server
 ah-display-widgets
 ajax-cart-autoupdate-for-woocommerce
 better-wp-security
+code-generator
 code-snippets
 color-and-image-swatches-for-variable-product-attributes
 conditional-menus
@@ -21,6 +22,7 @@ my-database-admin
 my-wp-health-check
 page-or-post-clone
 paytium
+page-or-post-clone
 polylang
 popup-maker
 really-simple-ssl
@@ -39,6 +41,7 @@ woo-custom-related-products
 woo-download-monitor
 woo-fly-cart
 woo-multi-currency
+woo-poly-integration
 woo-product-attachment
 woo-product-bundle
 woo-product-faq-tab
@@ -51,6 +54,8 @@ woocommerce
 woocommerce-gateway-paypal-express-checkout
 woocommerce-gateway-stripe
 woocommerce-google-analytics-integration
+woocommerce-payments
+woocommerce-pdf-invoices-packing-slips
 woocommerce-polylang-integration
 woocommerce-services
 woocommerce-single-product-checkout
