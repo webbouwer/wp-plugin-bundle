@@ -4,6 +4,7 @@ accessible-divi
 add-from-server
 admin-bar-dashboard-control
 admin-custom-login
+admin-taxonomy-filter
 advanced-backgrounds
 ah-display-widgets
 ajax-cart-autoupdate-for-woocommerce
