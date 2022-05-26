@@ -2,12 +2,14 @@
 aceide
 accessible-divi
 add-from-server
+admin-bar-dashboard-control
 admin-custom-login
 advanced-backgrounds
 ah-display-widgets
 ajax-cart-autoupdate-for-woocommerce
 all-in-one-event-calendar
 all-in-one-seo-pack
+all-in-one-video-gallery
 all-in-one-wp-migration
 all-in-one-wp-security-and-firewall
 anual-archive
@@ -28,6 +30,7 @@ child-theme-check
 child-theme-configurator
 child-theme-wizard
 classic-editor
+classic-widgets
 clear-sucuri-cache
 codepress-admin-columns
 code-snippets
@@ -43,6 +46,7 @@ cookie-law-info
 cookie-notice
 cp-related-posts
 custom-sucuri
+database-cleaner
 disable-comments
 display-categories-widget
 display-posts-shortcode
@@ -138,6 +142,7 @@ revslider
 robin-image-optimizer
 shared-counts
 simple-sitemap
+simply-schedule-appointments
 slide-anything
 smart-slider-3
 so-widgets-bundle
@@ -192,6 +197,7 @@ wp-and-divi-icons
 wp-awesome-faq
 wp-contact-slider
 wp-custom-admin-interface
+wp-custom-taxonomy-image
 wp-fastest-cache
 wp-featured-screenshot
 wp-file-manager
