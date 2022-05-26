@@ -28,7 +28,6 @@ categories-images
 cf7-mollie
 child-theme-check
 child-theme-configurator
-child-theme-wizard
 classic-editor
 classic-widgets
 clear-sucuri-cache
