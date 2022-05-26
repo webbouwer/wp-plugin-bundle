@@ -73,6 +73,7 @@ google-sitemap-generator
 grid-plus
 i-divi-post-settings
 image-size-selection-for-divi
+image-regenerate-select-crop
 interactive-3d-flipbook-powered-physics-engine
 jetpack
 jonradio-multiple-themes
@@ -136,6 +137,7 @@ rearrange-woocommerce-products
 recent-posts-widget-extended
 regenerate-thumbnails
 remove-yoast-seo-comments
+resize-image-after-upload
 responsive-accordion-and-collapse
 responsive-divi-backgrounds
 responsivevoice-text-to-speech
