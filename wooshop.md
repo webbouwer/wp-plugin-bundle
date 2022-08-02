@@ -61,4 +61,5 @@ woocommerce-services
 woocommerce-single-product-checkout
 wp-add-mime-types
 wp-fastest-cache
+wp-multi-step-checkout
 wp-reset
