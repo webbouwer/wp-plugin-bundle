@@ -23,6 +23,7 @@ coming-soon
 theme-check
 child-theme-check
 child-theme-configurator
+easy-wp-smtp
 advanced-category-and-custom-taxonomy-image
 resize-image-after-upload
 admin-taxonomy-filter
