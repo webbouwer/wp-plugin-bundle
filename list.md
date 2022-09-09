@@ -59,6 +59,7 @@ dse-divi-section-enhancer
 duplicate-post
 duplicator
 easy-video-player
+easy-wp-smtp
 email-encoder-bundle
 events-manager
 everest-admin-theme-lite
