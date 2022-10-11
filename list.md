@@ -20,6 +20,9 @@ autoptimize
 before-after-images-for-divi
 better-wp-security
 black-studio-tinymce-widget
+booking
+booking-package
+bookly-responsive-appointment-booking-tool
 breadcrumb-navxt
 broken-link-checker
 browser-shots
@@ -61,6 +64,7 @@ duplicator
 easy-video-player
 easy-wp-smtp
 email-encoder-bundle
+event-feed-for-eventbrite
 events-manager
 everest-admin-theme-lite
 final-tiles-grid-gallery-lite
@@ -168,6 +172,7 @@ ultimate-faqs
 updraftplus
 urvanov-syntax-highlighter
 velvet-blues-update-urls
+very-simple-event-list
 video-embed-thumbnail-generator
 w3-total-cache
 woo-advanced-product-size-chart
@@ -200,6 +205,7 @@ wordpress-social-login
 wp-add-mime-types
 wp-and-divi-icons
 wp-awesome-faq
+wp-booking-system
 wp-contact-slider
 wp-custom-admin-interface
 wp-custom-taxonomy-image
