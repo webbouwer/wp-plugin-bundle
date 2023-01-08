@@ -1,6 +1,5 @@
 3d-flipbook-dflip-lite
 aceide
-accessible-divi
 add-from-server
 admin-bar-dashboard-control
 admin-custom-login
@@ -70,6 +69,7 @@ everest-admin-theme-lite
 final-tiles-grid-gallery-lite
 formidable
 force-regenerate-thumbnails
+gallery-video
 gamipress
 gdpr
 geodirectory
@@ -128,6 +128,7 @@ popup-maker
 popupally
 popups-for-divi
 portfolio-filter-gallery
+portfolio-gallery
 post-category-image-with-grid-and-slider
 post-grid
 post-to-google-my-business
@@ -174,6 +175,7 @@ urvanov-syntax-highlighter
 velvet-blues-update-urls
 very-simple-event-list
 video-embed-thumbnail-generator
+video-playlist-and-gallery-plugin
 w3-total-cache
 woo-advanced-product-size-chart
 woo-ajax-add-to-cart
@@ -237,4 +239,5 @@ wpforms-lite
 wpglobus
 yoast-seo-settings-xml-csv-import
 youtube-embed-plus
+youtube-showcase
 zeno-font-resizer
