@@ -58,7 +58,7 @@ download-monitor
 download-plugins-dashboard
 ds-suit
 dse-divi-section-enhancer
-duplicate-post
+duplicate-page
 duplicator
 easy-video-player
 easy-wp-smtp
