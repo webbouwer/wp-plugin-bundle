@@ -92,6 +92,7 @@ limit-login-attempts-reloaded
 loftloader
 login-with-ajax
 loginizer
+loginpress
 mailchimp-for-wp
 mailoptin
 mailpoet
