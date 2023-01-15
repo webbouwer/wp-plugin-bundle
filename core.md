@@ -1,6 +1,5 @@
 add-from-server
 classic-editor-and-classic-widgets
-coming-soon
 conditional-menu
 cookie-law-info
 disable-comments
