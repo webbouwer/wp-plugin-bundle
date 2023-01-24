@@ -61,6 +61,7 @@ dse-divi-section-enhancer
 duplicate-page
 duplicator
 easy-video-player
+easy-svg
 easy-wp-smtp
 email-encoder-bundle
 event-feed-for-eventbrite
