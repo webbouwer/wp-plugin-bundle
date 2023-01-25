@@ -10,7 +10,7 @@ loginpress
 one-user-avatar
 page-or-post-clone
 popup-maker
-really-simple-ss
+really-simple-ssl
 testimonials-widget
 ultimate-faqs
 wp-fastest-cache
