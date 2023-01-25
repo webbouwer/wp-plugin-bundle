@@ -22,6 +22,7 @@ black-studio-tinymce-widget
 booking
 booking-package
 bookly-responsive-appointment-booking-tool
+breadcrumbs-divi-module
 breadcrumb-navxt
 broken-link-checker
 browser-shots
@@ -79,10 +80,10 @@ google-calendar-events
 google-sitemap-generator
 grid-plus
 i-divi-post-settings
+image-carousel-divi
 image-size-selection-for-divi
 image-regenerate-select-crop
 interactive-3d-flipbook-powered-physics-engine
-jetpack
 jonradio-multiple-themes
 jquery-t-countdown-widget
 js-support-ticket
