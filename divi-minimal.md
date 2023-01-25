@@ -12,4 +12,4 @@ page-or-post-clone
 popups-for-divi
 really-simple-ssl
 wp-fastest-cache
-wp-user-avatar
+wp-user-avatars
