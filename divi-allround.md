@@ -1,6 +1,7 @@
 add-from-server
 ah-display-widgets
 better-wp-security
+breadcrumbs-divi-module
 categories-images
 classic-editor-and-classic-widgets
 conditional-menus
