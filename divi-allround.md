@@ -17,6 +17,7 @@ email-encoder-bundle
 formidable
 force-regenerate-thumbnails
 google-sitemap-generator
+image-carousel-divi
 lightbox-images-for-divi
 loftloader
 loginpress
