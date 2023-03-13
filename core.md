@@ -4,6 +4,7 @@ conditional-menu
 cookie-law-info
 disable-comments
 duplicator
+easy-svg
 email-encoder-bundle
 google-sitemap-generator
 loginpress
