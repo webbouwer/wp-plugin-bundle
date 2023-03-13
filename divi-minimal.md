@@ -6,10 +6,13 @@ duplicator
 easy-svg
 email-encoder-bundle
 formidable
+google-sitemap-generator
 loginpress
 one-user-avatar
 page-or-post-clone
 popups-for-divi
 really-simple-ssl
+testimonials-widget
+ultimate-faqs
 wp-fastest-cache
 wp-user-avatars
