@@ -16,3 +16,4 @@ testimonials-widget
 ultimate-faqs
 wp-fastest-cache
 wp-user-avatars
+wp-reset
