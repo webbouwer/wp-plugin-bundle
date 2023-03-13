@@ -132,10 +132,12 @@ popupally
 popups-for-divi
 portfolio-filter-gallery
 portfolio-gallery
+postie
 post-category-image-with-grid-and-slider
 post-grid
 post-to-google-my-business
 post-types-order
+post-type-switcher
 pricing-table-by-supsystic
 profile-builder
 profilegrid-user-profiles-groups-and-communities
