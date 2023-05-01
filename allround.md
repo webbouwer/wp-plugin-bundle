@@ -18,6 +18,7 @@ easy-wp-smtp
 email-encoder-bundle
 google-sitemap-generator
 image-regenerate-select-crop
+iwp-client
 loginpress
 mailchimp-for-wp
 newsletter 
