@@ -27,7 +27,6 @@ mollie-forms
 nextgen-gallery
 one-user-avatar
 page-or-post-clone
-page-scroll-to-id
 paj-divi-menu-options
 polylang
 popup-maker
