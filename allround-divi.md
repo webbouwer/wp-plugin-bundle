@@ -38,6 +38,7 @@ regenerate-thumbnails
 robin-image-optimizer
 slide-anything
 ultimate-faqs
+simple-divi-shortcode
 sticky-menu-or-anything-on-scroll
 taxonomy-terms-order
 testimonials-widget
