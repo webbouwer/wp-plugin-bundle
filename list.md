@@ -58,7 +58,6 @@ dk-pricr-responsive-pricing-table
 download-monitor
 download-plugins-dashboard
 ds-suit
-dse-divi-section-enhancer
 duplicate-page
 duplicator
 easy-video-player
