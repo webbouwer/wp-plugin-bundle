@@ -10,7 +10,6 @@ cookie-law-info
 disable-comments
 display-categories-widget
 display-posts-shortcode
-dse-divi-section-enhancer
 duplicator
 easy-svg
 easy-video-player
