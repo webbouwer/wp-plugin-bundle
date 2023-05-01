@@ -19,6 +19,7 @@ formidable
 force-regenerate-thumbnails
 google-sitemap-generator
 image-carousel-divi
+iwp-client
 lightbox-images-for-divi
 loftloader
 loginpress
