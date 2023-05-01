@@ -84,6 +84,7 @@ image-carousel-divi
 image-size-selection-for-divi
 image-regenerate-select-crop
 interactive-3d-flipbook-powered-physics-engine
+iwp-client
 jonradio-multiple-themes
 jquery-t-countdown-widget
 js-support-ticket
