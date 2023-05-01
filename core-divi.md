@@ -12,6 +12,7 @@ one-user-avatar
 page-or-post-clone
 popups-for-divi
 really-simple-ssl
+simple-divi-shortcode
 testimonials-widget
 ultimate-faqs
 wp-fastest-cache
