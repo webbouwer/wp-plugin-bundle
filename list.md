@@ -157,6 +157,7 @@ responsivevoice-text-to-speech
 revslider
 robin-image-optimizer
 shared-counts
+simple-divi-shortcode
 simple-sitemap
 simply-schedule-appointments
 slide-anything
