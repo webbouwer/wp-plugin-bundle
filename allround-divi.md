@@ -1,4 +1,3 @@
-
 add-from-server
 ah-display-widgets
 better-wp-security
@@ -14,8 +13,8 @@ duplicator
 easy-svg
 easy-video-player
 email-encoder-bundle
-formidable
 force-regenerate-thumbnails
+formidable
 google-sitemap-generator
 image-carousel-divi
 iwp-client
@@ -32,14 +31,13 @@ polylang
 popup-maker
 popups-for-divi
 really-simple-ssl
-regenerate-thumbnails
 robin-image-optimizer
-slide-anything
-ultimate-faqs
 simple-divi-shortcode
+slide-anything
 sticky-menu-or-anything-on-scroll
 taxonomy-terms-order
 testimonials-widget
+ultimate-faqs
 velvet-blues-update-urls
 wp-add-mime-types
 wp-fastest-cache
