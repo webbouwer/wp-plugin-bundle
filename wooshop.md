@@ -5,6 +5,7 @@ better-wp-security
 code-generator
 code-snippets
 color-and-image-swatches-for-variable-product-attributes
+companion-sitemap-generator
 conditional-menus
 cookie-notice
 duplicator
@@ -13,7 +14,6 @@ easy-video-player
 email-encoder-bundle
 force-regenerate-thumbnails
 google-analytics-dashboard-for-wp
-google-sitemap-generator
 js-support-ticket
 mailchimp-for-wp
 mollie-forms
