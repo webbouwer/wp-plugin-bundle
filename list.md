@@ -76,7 +76,6 @@ gdpr
 geodirectory
 google-analytics-dashboard-for-wp
 google-calendar-events
-google-sitemap-generator
 grid-plus
 i-divi-post-settings
 image-carousel-divi
