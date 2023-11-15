@@ -11,12 +11,12 @@ clear-sucuri-cache
 conditional-menus
 coming-soon
 cookie-law-info
+companion-sitemap-generator
 database-cleaner
 disable-comments
 duplicator
 easy-wp-smtp
 email-encoder-bundle
-google-sitemap-generator
 image-regenerate-select-crop
 iwp-client
 loginpress
