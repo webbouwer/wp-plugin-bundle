@@ -1,12 +1,12 @@
 add-from-server
 classic-editor-and-classic-widgets
+companion-sitemap-generator
 cookie-law-info
 disable-comments
 duplicator
 easy-svg
 email-encoder-bundle
 formidable
-google-sitemap-generator
 loginpress
 one-user-avatar
 page-or-post-clone
