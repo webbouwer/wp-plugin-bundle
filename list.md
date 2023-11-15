@@ -147,6 +147,7 @@ quadmenu
 quadmenu-divi
 really-simple-ssl
 rearrange-woocommerce-products
+rebusted
 recent-posts-widget-extended
 regenerate-thumbnails
 remove-yoast-seo-comments
