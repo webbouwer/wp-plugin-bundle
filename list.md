@@ -40,6 +40,7 @@ codepress-admin-columns
 code-snippets
 color-and-image-swatches-for-variable-product-attributes
 coming-soon
+companion sitemap generator
 conditional-menus
 connections
 contact-form-7
