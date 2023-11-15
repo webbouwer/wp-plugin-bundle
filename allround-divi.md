@@ -4,6 +4,7 @@ better-wp-security
 breadcrumbs-divi-module
 categories-images
 classic-editor-and-classic-widgets
+companion-sitemap-generator
 conditional-menus
 cookie-law-info
 disable-comments
@@ -15,7 +16,6 @@ easy-video-player
 email-encoder-bundle
 force-regenerate-thumbnails
 formidable
-google-sitemap-generator
 image-carousel-divi
 iwp-client
 lightbox-images-for-divi
