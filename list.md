@@ -68,6 +68,7 @@ email-encoder-bundle
 event-feed-for-eventbrite
 events-manager
 everest-admin-theme-lite
+fg-joomla-to-wordPress
 final-tiles-grid-gallery-lite
 formidable
 force-regenerate-thumbnails
