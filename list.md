@@ -55,6 +55,7 @@ database-cleaner
 disable-comments
 display-categories-widget
 display-posts-shortcode
+divi-post-carousel
 dk-pricr-responsive-pricing-table
 download-monitor
 download-plugins-dashboard
