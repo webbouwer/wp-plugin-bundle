@@ -20,8 +20,6 @@ before-after-images-for-divi
 better-wp-security
 black-studio-tinymce-widget
 booking
-booking-package
-bookly-responsive-appointment-booking-tool
 breadcrumbs-divi-module
 breadcrumb-navxt
 broken-link-checker
