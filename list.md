@@ -20,6 +20,7 @@ before-after-images-for-divi
 better-wp-security
 black-studio-tinymce-widget
 booking
+booking-manager
 breadcrumbs-divi-module
 breadcrumb-navxt
 broken-link-checker
@@ -171,6 +172,7 @@ strong-testimonials
 subscribe-to-download-lite
 sucuri-scanner
 supreme-modules-for-divi
+super-simple-event-calendar
 surbma-divi-remove-project-cpt
 tablepress
 taxonomy-terms-order
@@ -180,6 +182,7 @@ theme-my-login
 ultimate-faqs
 updraftplus
 urvanov-syntax-highlighter
+use-any-font
 velvet-blues-update-urls
 very-simple-event-list
 video-embed-thumbnail-generator
