@@ -144,6 +144,7 @@ pricing-table-by-supsystic
 profile-builder
 profilegrid-user-profiles-groups-and-communities
 pronamic-ideal
+qr-redirector
 quadmenu
 quadmenu-divi
 really-simple-ssl
