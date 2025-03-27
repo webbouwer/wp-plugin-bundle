@@ -40,6 +40,7 @@ code-snippets
 color-and-image-swatches-for-variable-product-attributes
 coming-soon
 companion-sitemap-generator
+complianz-gdpr
 conditional-menus
 connections
 contact-form-7
@@ -220,6 +221,7 @@ wordpress-seo
 wordpress-social-login
 wp-add-mime-types
 wp-and-divi-icons
+wp-asset-clean-up
 wp-awesome-faq
 wp-booking-system
 wp-contact-slider
