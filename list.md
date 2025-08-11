@@ -184,10 +184,10 @@ testimonials-widget
 theme-check
 theme-my-login
 ultimate-faqs
+update-urls
 updraftplus
 urvanov-syntax-highlighter
 use-any-font
-velvet-blues-update-urls
 very-simple-event-list
 video-embed-thumbnail-generator
 video-playlist-and-gallery-plugin
