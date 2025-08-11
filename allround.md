@@ -33,8 +33,8 @@ taxonomy-terms-order
 theme-check
 theme-my-login
 testimonials-widget
-update-urls
 ultimate-faqs
+update-urls
 wp-fastest-cache
 wp-file-manager
 wp-reset
