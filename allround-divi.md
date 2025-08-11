@@ -39,7 +39,7 @@ sticky-menu-or-anything-on-scroll
 taxonomy-terms-order
 testimonials-widget
 ultimate-faqs
-velvet-blues-update-urls
+update-urls
 wp-add-mime-types
 wp-fastest-cache
 wp-mail-smtp
